@@ -11,3 +11,7 @@
 * Bypass for authorization checks in tcode \
  CALL FUNCTION 'RS_HDSYS_CALL_TC_VARIANT' 
  
+* Remove special characters \
+ CALL FUNCTION '/FHG/REMOVE_SPECIAL_CHARACTER' 
+
+ 
