@@ -14,5 +14,8 @@
 * Remove special characters \
  CALL FUNCTION 'ZREMOVE_SPECIAL_CHARACTER' \
  CALL FUNCTION 'HR_BR_CONVERT_ACCENTS'
+ 
+ * Get infotype details
+  CALL FUNCTION 'HR_READ_INFOTYPE' \
 
  
