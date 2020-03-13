@@ -17,5 +17,9 @@
  
  * Get infotype details \
   CALL FUNCTION 'HR_READ_INFOTYPE' 
+  
+ * Changing  \
+  TRINT_CORR_CHECK
+  TRINT_CORR_INSERT
 
  
